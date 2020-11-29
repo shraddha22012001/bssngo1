@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+    <TextView
+        android:layout_width="301dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="How We Work"
+        android:textAlignment="center"
+        android:textColor="#01061E"
+        android:textSize="30dp"
+        android:textStyle="bold" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:text="            Badlav Seva Samiti was initiated and stands with 4 verticals: Health and Welfare, Legal Awareness and Aid, Education and Art, Uplifting and Assisting minorities. "
+            android:layout_marginLeft="6dp"
+            android:layout_marginRight="3dp"
+            android:paddingTop="5dp"
+            android:textSize="18dp"
+            android:textColor="@color/black"/>
+        <ImageView
+
+            android:paddingLeft="2dp"
+            android:paddingRight="2dp"
+            android:paddingBottom="2dp"
+            android:paddingTop="2dp"
+            android:layout_width="match_parent"
+            android:layout_height="468dp"
+            android:background="#FFFFFF"
+            android:layout_marginLeft="10dp"
+            android:src="@drawable/cartoon"
+           />
+        <TextView
+            android:layout_width="301dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Our Health Camps"
+            android:textAlignment="center"
+            android:textColor="#23A7E3"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="20dp"
+            android:src="@drawable/lucknow_health_camp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:text="           We work in the field of Medicine, Health and Family welfare. Our organisation has setup a large number of free health camps in recent years at reputed universities in our region like Dr. Ram Manohar Lohiya National Law University (15th October 2018) as well as at various events held in nearby regions. Many wellknown personalities have also been a part of these camps as our chief guests and we’re eternally grateful towards them for supporting our cause. The camps have been resoundingly successful and have also been covered by various local and national newspapers. "
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:paddingTop="5dp"
+            android:textSize="18dp"
+            android:textColor="@color/black"/>
+        <TextView
+            android:layout_width="301dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Donation Drives"
+            android:textAlignment="center"
+            android:textColor="#23A7E3"
+            android:layout_marginTop="38dp"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="20dp"
+            android:src="@drawable/donation_drive_1" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:layout_marginTop="5dp"
+            android:text="           With millions of daily wage earners stranded without jobs due to the COVID lockdown, they are finding it difficult to arrange food for themselves and their families. They are one of the most marginalised communities as they have no access to dry rations to sustain themselves. To save them from dying of hunger in these uncertain times, Badlav Seva Samiti organised donation drives in the nearby regions during the lockdown. We provided dry ration to families facing lockdown hunger. All these efforts were made by taking utmost care about the hygiene and safety and keeping in mind the precautions to be taken during the pandemic.  "
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:paddingTop="5dp"
+            android:textSize="18dp"
+            android:textColor="@color/black"/>
+        <TextView
+            android:layout_width="301dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Action against Domestic Violence"
+            android:textAlignment="center"
+            android:textColor="#23A7E3"
+            android:layout_marginTop="38dp"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="20dp"
+            android:src="@drawable/domestic_violence" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:text="        Gender discrimination and violence against women are common in India. According to a report by the National Health and Family Survey, one in every three women in India, starting from the age of 15, has faced some form of domestic or sexual violence. This same survey also reported that 54.4% of rural women and 46.8% of urban women believe that domestic abuse is normal. Right from a young age, women are made to believe that they’re inferior. They are taught to be dependent on the male figures in their lives. These ideas of misogyny and patriarchy are so deep-rooted that the women become indifferent to the abuse. Lack of education, awareness, and fear of social stigma has made thousands of women suffer in silence. According to NHFS-4, only 14% of women who reported being abused actively ask for help.  "
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:paddingTop="5dp"
+            android:textSize="18dp"
+            android:textColor="@color/black"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:text="       As an organisation that works for the empowerment of women and other under privileged communities. We provide socio-legal support to victims of domestic abuse. Our team of social workers meet with victims and explain the process and procedures involved in a court case. They are also told about all the legal, public and private schemes that they have access to. Further legal help is provided depending upon the case. We received several applications from women asking for help and we did whatever we could with our resources to help them out of their situations. We’ve successfully helped many women in ending their sufferings at the hands of their partners or other family members. We’re also continuously spreading awareness about domestic violence as an attempt to reach out to people who might need our help.  "
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:paddingTop="5dp"
+            android:textSize="18dp"
+            android:textColor="@color/black"/>
+        <TextView
+            android:layout_width="301dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Other Domains"
+            android:textAlignment="center"
+            android:textColor="#23A7E3"
+            android:layout_marginTop="38dp"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:text="       Apart from these events our organization also constantly spreads legal awareness and provides legal aid to those in need in the surrounding regions. We also work for youth affairs as we firmly believe that well directed youth would be the pillar of an educated and aware nation. We also promote education and literacy to bridge the gap between the educated and uneducated as education is the first step to a sustainably developed future. Our country is known for its regal heritage and the various cultures and art forms that are a part of this, we as an organisation work for preserving and promoting the glorious fields of art and culture. Furthermore, the organization assists in the uplifting of SC/ST communities and other minority issues. Since these domains cover a wide range of social evils and to eradicate all of those we’re working one step at a time. We’re extremely grateful to all the prominent social figures for their association with our NGO at several social events, their presence with our organisation has helped us remarkably in gaining more recognition in the society which helps us to expand our range.  "
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginBottom="30dp"
+            android:paddingTop="5dp"
+            android:textSize="18dp"
+            android:textColor="@color/black"/>
+
+    </LinearLayout>
+
+</ScrollView>

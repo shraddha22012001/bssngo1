@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/about_1"
+            android:layout_width="301dp"
+            android:layout_height="wrap_content"
+            android:text="About NGO "
+            android:layout_gravity="center"
+            android:textColor="#2946EA"
+            android:textSize="30dp"
+            android:textAlignment="center"
+            android:textStyle="bold" />
+        <ImageView
+            android:id="@+id/about_2"
+            android:paddingLeft="2dp"
+            android:paddingRight="2dp"
+            android:paddingBottom="2dp"
+            android:paddingTop="2dp"
+            android:layout_width="match_parent"
+            android:layout_height="468dp"
+            android:background="#FFFFFF"
+            android:layout_marginLeft="6dp"
+            android:src="@drawable/about_ngo"
+            android:layout_below="@id/about_1"/>
+        <TextView
+            android:id="@+id/about_3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/about_2"
+            android:layout_marginTop="5dp"
+            android:text="            Badlav Seva Samiti is a registered non-government, non-profit organization ( Reg no: LUC/03881/2018-2019) working with and for the society to combat various social issues. Badlav Seva Samiti was founded on August 31, 2018 by a small group of individuals with a strong passion to make the society a better place for everyone. The organisation provides a platform to serve the community. Mrs. Savitri Singh (President), Dr. Sumit Singh (MD) (General Secretary) and Pooja Singh (Treasurer) are extremely grateful for being a part of this organization working for multiple noble causes within their reach. As an organisation we believe that even a small gesture of kindness is valuable enough to change someone’s life. We try bridging the gap between the privileged and the under-privileged sections of the society to create a socially conscious and equal society. There’s a long way to go from the conditions of today to the society we wish to be a part of and we as an organisation are willing to do whatever we can to help with our reach and resources. There are several social issues to combat and we wish to eradicate each one of those taking one step at a time. Our organization functions on values of showing Empathy with all people, maintaining our Integrity as a community and building a Dynamic society.  "
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="10dp"
+            android:paddingTop="5dp"
+            android:textSize="18dp"
+            android:textColor="@color/black"
+            />
+
+        <ImageView
+            android:id="@+id/about_4"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_below="@id/about_3"
+           android:layout_marginRight="10dp"
+    android:layout_marginLeft="10dp"
+            android:layout_marginTop="15dp"
+            android:background="#85ECFA"
+            android:src="@drawable/about_ngo_1"
+            />
+
+        <TextView
+            android:id="@+id/about_5"
+            android:paddingLeft="2dp"
+            android:paddingRight="2dp"
+            android:paddingBottom="2dp"
+            android:paddingTop="2dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="10dp"
+            android:background="#85ECFA"
+            android:text="Showing Empathy with everyone "
+            android:textColor="@color/black"
+            android:textAlignment="center"
+            />
+        <ImageView
+            android:id="@+id/about_6"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_below="@id/about_5"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="15dp"
+            android:background="#85ECFA"
+            android:src="@drawable/about_ngo_2"
+            />
+
+        <TextView
+            android:id="@+id/about_7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="10dp"
+            android:background="#85ECFA"
+            android:paddingLeft="2dp"
+            android:paddingRight="2dp"
+            android:paddingBottom="2dp"
+            android:paddingTop="2dp"
+            android:text="Maintaining Integrity towards our purpose"
+            android:textColor="@color/black"
+            android:textAlignment="center"
+            />
+
+
+        <ImageView
+            android:id="@+id/about_8"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_below="@id/about_7"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="15dp"
+            android:background="#85ECFA"
+            android:src="@drawable/about_ngo_3"
+            />
+
+        <TextView
+            android:id="@+id/about_9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="10dp"
+            android:background="#85ECFA"
+            android:text="Building a Dynamic society for all"
+            android:textColor="@color/black"
+            android:textAlignment="center"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Our Mission and Core values "
+            android:layout_gravity="center"
+            android:textColor="#2946EA"
+            android:textSize="21dp"
+            android:textStyle="bold"
+            android:paddingLeft="2dp"
+            android:paddingRight="2dp"
+            android:paddingBottom="2dp"
+            android:paddingTop="2dp"
+            android:layout_marginTop="25dp"
+            android:textAlignment="center"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="To help build a more influential, equal, robust and socially conscious society. "
+            android:layout_gravity="center"
+            android:textColor="@color/black"
+            android:textSize="16dp"
+            android:paddingLeft="2dp"
+            android:paddingRight="2dp"
+            android:paddingBottom="2dp"
+            android:paddingTop="2dp"
+            android:layout_marginTop="10dp"
+            android:textAlignment="center"/>
+
+        <TextView
+            android:layout_width="389dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="35dp"
+            android:layout_marginRight="30dp"
+
+            android:background="#85ECFA"
+            android:paddingLeft="2dp"
+            android:paddingTop="2dp"
+            android:paddingRight="2dp"
+            android:paddingBottom="2dp"
+            android:text=" Social Justice and Equity ~ We work to promote equality, dignity and more just society, especially with regard to the poor and marginalised.  "
+            android:textColor="@color/black" />
+        <TextView
+            android:layout_width="389dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="30dp"
+            android:paddingLeft="2dp"
+            android:paddingRight="2dp"
+            android:paddingBottom="2dp"
+            android:paddingTop="2dp"
+            android:background="#85ECFA"
+
+            android:text=" Gender and diversity ~ Our work reflects and promotes respect for gender and diversity issues.  "
+            android:textColor="@color/black"/>
+        <TextView
+            android:layout_width="389dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="30dp"
+             android:paddingLeft="2dp"
+            android:paddingRight="2dp"
+            android:paddingBottom="2dp"
+            android:paddingTop="2dp" android:background="#85ECFA"
+
+            android:text=" Accountability ~We hold ourselves accountable to the highest level of ethical behaviour and responsibility for our actions, while maintaining integrity in our performance and advocating for same.  "
+            android:textColor="@color/black"/>
+        <TextView
+            android:layout_width="389dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="30dp"
+            android:paddingLeft="2dp"
+            android:paddingRight="2dp"
+            android:paddingBottom="2dp"
+            android:paddingTop="2dp"
+            android:background="#85ECFA"
+
+            android:text=" Self-Sufficiency ~ As NGO we strive and work towards sustainable development outcomes within our sector. "
+            android:textColor="@color/black"/>
+        <TextView
+            android:layout_width="389dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="30dp"
+            android:paddingLeft="2dp"
+            android:paddingRight="2dp"
+            android:paddingBottom="2dp"
+            android:paddingTop="2dp"
+            android:background="#85ECFA"
+
+            android:text="Autonomy ~We ensure that we strive for and safeguard the rights to existence and independence of our organization at all times.  "
+            android:textColor="@color/black"/>
+        <TextView
+            android:layout_width="389dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="30dp"
+            android:paddingLeft="2dp"
+            android:paddingRight="2dp"
+            android:paddingBottom="2dp"
+            android:paddingTop="2dp"
+            android:background="#85ECFA"
+
+            android:text=" Collective action and solidarity ~ We strive for joint action and cooperation whenever justified by our mission, and stand with and by other NGOs when they are faced with challenges.   "
+            android:textColor="@color/black"/>
+        <TextView
+            android:layout_width="389dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="30dp"
+            android:paddingLeft="2dp"
+            android:paddingRight="2dp"
+            android:paddingBottom="2dp"
+            android:paddingTop="2dp"
+            android:background="#85ECFA"
+
+            android:text="Unity in diversity ~ We believe in and celebrate diversity in our culture but we strive to achieve unity amongst different sections of the society.  "
+            android:textColor="@color/black"/>
+
+
+        <TextView
+            android:id="@+id/aim_objective"
+            android:layout_width="301dp"
+            android:layout_height="wrap_content"
+            android:text="Aims And Objectives "
+            android:layout_gravity="center"
+            android:textColor="@color/black"
+            android:textSize="30dp"
+            android:textStyle="bold" />
+
+        <View
+            android:id="@+id/divider"
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_below="@+id/aim_objective"
+            android:layout_marginTop="10dp"
+            android:background="?android:attr/listDivider"
+            android:outlineAmbientShadowColor="@color/black" />
+        <TextView
+            android:id="@+id/aim_1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/divider"
+            android:layout_marginTop="5dp"
+            android:text="             Badlav Seva Samiti drives social change by targeting social issues of different niches to change society today and build a better India for tomorrow. "
+            android:layout_marginLeft="6dp"
+            android:layout_marginRight="3dp"
+            android:paddingTop="5dp"
+            android:textSize="18dp"
+            android:textColor="@color/black"
+            />
+
+        <TextView
+            android:id="@+id/aim_2"
+            android:layout_width="405dp"
+            android:layout_height="30dp"
+            android:layout_below="@+id/aim_1"
+            android:layout_marginLeft="6dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="3dp"
+            android:paddingTop="4dp"
+            android:background="#85ECFA"
+
+            android:text="               To provide Educational Empowermen"
+            android:textColor="@color/black"/>
+        <TextView
+            android:id="@+id/aim_3"
+            android:layout_width="405dp"
+            android:layout_height="30dp"
+            android:layout_below="@+id/aim_2"
+            android:layout_marginLeft="6dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="3dp"
+            android:paddingTop="4dp"
+            android:background="#85ECFA"
+
+            android:text="               Providing medical assistance and legal aid "
+            android:textColor="@color/black"/>
+        <TextView
+            android:id="@+id/aim_4"
+            android:layout_width="405dp"
+            android:layout_height="30dp"
+            android:layout_below="@+id/aim_3"
+            android:layout_marginLeft="6dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="3dp"
+            android:paddingTop="4dp"
+            android:background="#85ECFA"
+
+            android:text="               To conduct study on various social issues "
+            android:textColor="@color/black"/>
+        <TextView
+            android:id="@+id/aim_5"
+            android:layout_width="405dp"
+            android:layout_height="30dp"
+            android:layout_below="@+id/aim_4"
+            android:layout_marginLeft="6dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="3dp"
+            android:paddingTop="4dp"
+            android:background="#85ECFA"
+
+            android:text="               To campaign for awareness "
+            android:textColor="@color/black"/>
+        <TextView
+            android:id="@+id/aim_6"
+            android:layout_width="405dp"
+            android:layout_height="30dp"
+            android:layout_below="@+id/aim_5"
+            android:layout_marginLeft="6dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="3dp"
+            android:paddingTop="4dp"
+            android:background="#85ECFA"
+
+            android:text="               To preserve arts and culture of the society "
+            android:textColor="@color/black"/>
+        <TextView
+            android:id="@+id/aim_7"
+            android:layout_width="405dp"
+            android:layout_height="30dp"
+            android:layout_below="@+id/aim_6"
+            android:layout_marginLeft="6dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="3dp"
+            android:paddingTop="4dp"
+            android:background="#85ECFA"
+
+            android:text="               To promote wholesome education and literacy "
+            android:textColor="@color/black"/>
+        <TextView
+            android:id="@+id/aim_8"
+            android:layout_width="405dp"
+            android:layout_height="30dp"
+            android:layout_below="@+id/aim_7"
+            android:layout_marginLeft="6dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="3dp"
+            android:paddingTop="4dp"
+            android:background="#85ECFA"
+
+            android:text="               To mentor and provide guidance to the youth "
+            android:textColor="@color/black"/>
+        <TextView
+            android:id="@+id/aim_9"
+            android:layout_width="405dp"
+            android:layout_height="30dp"
+            android:layout_below="@+id/aim_8"
+            android:layout_marginLeft="6dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="3dp"
+            android:paddingTop="4dp"
+            android:background="#85ECFA"
+
+            android:text="               To organize social, educational events "
+            android:textColor="@color/black"/>
+
+        <ImageView
+            android:id="@+id/aim_10"
+            android:layout_width="424dp"
+            android:layout_height="345dp"
+            android:layout_below="@id/aim_9"
+            android:src="@drawable/aim_1"
+            android:paddingRight="6dp"/>
+
+        <TextView
+            android:id="@+id/aim_11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/aim_10"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:paddingTop="4dp"
+            android:background="#85ECFA"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:text=" Health Camps "
+            android:textColor="@color/black"/>
+
+        <ImageView
+            android:id="@+id/aim_12"
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:background="#85ECFA"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_below="@id/aim_11"
+            android:src="@drawable/lucknow_health_camp" />
+        <TextView
+            android:id="@+id/aim_13"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/aim_12"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="#85ECFA"
+            android:padding="2dp"
+
+            android:text="We work in the field of Medicine, Health and Family welfare. "
+            android:textColor="@color/black"/>
+        <TextView
+            android:id="@+id/aim_14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/aim_13"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginRight="10dp"
+            android:padding="2dp"
+            android:background="#85ECFA"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:text=" Donation Drives "
+            android:textColor="@color/black"/>
+
+        <ImageView
+            android:id="@+id/aim_15"
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:background="#85ECFA"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:src="@drawable/donation_drive_1"
+            android:layout_below="@id/aim_14"/>
+
+        <TextView
+            android:id="@+id/aim_16"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/aim_15"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="#85ECFA"
+            android:padding="2dp"
+
+            android:text="As an organisation that works for the empowerment of women and other under privileged communities. We provide socio-legal support to victims of domestic abuse.We work in the field of Medicine, Health and Family welfare. "
+            android:textColor="@color/black" />
+        <TextView
+            android:id="@+id/aim_17"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/aim_16"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginRight="10dp"
+            android:padding="2dp"
+            android:background="#85ECFA"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:text="Action against Domestic Violence"
+            android:textColor="@color/black"/>
+
+        <ImageView
+            android:id="@+id/aim_18"
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:background="#85ECFA"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:src="@drawable/domestic_violence"
+            android:layout_below="@id/aim_17"/>
+        <TextView
+            android:id="@+id/aim_19"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/aim_18"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="70dp"
+            android:padding="2dp"
+            android:background="#85ECFA"
+            android:text="As an organisation that works for the empowerment of women and other under privileged communities. We provide socio-legal support to victims of domestic abuse.  "
+            android:textColor="@color/black"/>
+
+
+        <TextView
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" Some Respected Social Figures with
+Badlav Seva Samiti "
+            android:layout_gravity="center"
+            android:textColor="@color/black"
+            android:textSize="30dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:src="@drawable/social" />
+
+        <TextView
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:paddingTop="4dp"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:text=" Mrs. Savitri Singh (President of Badlav Seva Samiti) welcoming Ram Naik (Former Governor of Uttar Pradesh) "
+            android:textColor="@color/black"/>
+
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:src="@drawable/social1" />
+
+        <TextView
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:paddingTop="4dp"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:text="Badlav Seva Samiti with Nitish Kumar (Chief Minister of Bihar)  "
+            android:textColor="@color/black"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:src="@drawable/social2" />
+
+        <TextView
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:paddingTop="4dp"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:text="Participation of Seema Parihar (Indian Politician) at Badlav Seva Samiti’s health camp as chief guest.  "
+            android:textColor="@color/black"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:src="@drawable/social3" />
+
+        <TextView
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:paddingTop="4dp"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:text="Badlav Seva Samiti with Sonu Sood (Indian film actor)  "
+            android:textColor="@color/black"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:src="@drawable/social4" />
+
+        <TextView
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="50dp"
+            android:paddingTop="4dp"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:text="Badlav Seva Samiti with Nitish Kumar (Chief Minister of Bihar)  "
+            android:textColor="@color/black"/>
+
+
+
+
+    </LinearLayout>
+</ScrollView>

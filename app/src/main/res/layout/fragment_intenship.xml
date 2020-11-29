@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@color/black">
+
+
+        <TextView
+            android:layout_width="301dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="internships we  offer"
+            android:background="@color/teal_200"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="30dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="250dp"
+            android:gravity="center"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="35dp"
+            android:text="content writing"
+            android:textSize="30sp"
+            android:textStyle="italic"
+            android:textColor="@color/black"
+            android:layout_gravity="center"
+            android:background="#FF9800" />
+        <ImageView
+
+            android:paddingLeft="2dp"
+            android:paddingRight="2dp"
+            android:paddingBottom="2dp"
+            android:paddingTop="2dp"
+            android:layout_width="match_parent"
+            android:layout_height="468dp"
+            android:background="#000000"
+            android:layout_marginLeft="10dp"
+            android:src="@drawable/content_writing"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:text="  The day-to-day responsibilities of selected interns includes writing content for our NGO on the assigned topic while managing their time efficiently. "
+            android:layout_marginLeft="6dp"
+            android:layout_marginRight="3dp"
+            android:paddingTop="5dp"
+            android:textSize="18dp"
+            android:textColor="@color/white"/>
+        <Button
+            android:id="@+id/content_btn"
+            android:layout_width="130dp"
+            android:layout_height="30dp"
+            android:text="know more"
+            android:textSize="20sp"
+            android:background="@color/teal_200"
+            android:textStyle="italic"
+            android:textColor="#FFFFFF"
+            />
+        <TextView
+            android:layout_width="250dp"
+            android:gravity="center"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="35dp"
+            android:text="fundraising"
+            android:textSize="30sp"
+            android:textStyle="italic"
+            android:textColor="@color/black"
+            android:layout_gravity="center"
+            android:background="#FF9800" />
+        <ImageView
+
+            android:paddingLeft="2dp"
+            android:paddingRight="2dp"
+            android:paddingBottom="2dp"
+            android:paddingTop="2dp"
+            android:layout_width="match_parent"
+            android:layout_height="468dp"
+            android:background="#000000"
+            android:layout_marginLeft="10dp"
+            android:src="@drawable/fundraising"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:text="  Promotion of our NGO initiatives on various social media platforms. Raising funds through the online campaigns. Formulating strategies to raise funds. Brainstorming new creative ideas for the NGO. Promoting the online fundraising campaign organised by the NGO."
+            android:layout_marginLeft="6dp"
+            android:layout_marginRight="3dp"
+            android:paddingTop="5dp"
+            android:textSize="18dp"
+            android:textColor="@color/white"/>
+        <Button
+            android:id="@+id/fund_btn"
+            android:layout_width="130dp"
+            android:layout_height="30dp"
+            android:text="know more"
+            android:textSize="20sp"
+            android:background="@color/teal_200"
+            android:textStyle="italic"
+            android:textColor="#FFFFFF"
+            />
+        <TextView
+            android:layout_width="250dp"
+            android:gravity="center"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="35dp"
+            android:text="web development"
+            android:textSize="30sp"
+            android:textStyle="italic"
+            android:textColor="@color/black"
+            android:layout_gravity="center"
+            android:background="#FF9800" />
+        <ImageView
+
+            android:paddingLeft="2dp"
+            android:paddingRight="2dp"
+            android:paddingBottom="2dp"
+            android:paddingTop="2dp"
+            android:layout_width="match_parent"
+            android:layout_height="468dp"
+            android:background="#000000"
+            android:layout_marginLeft="10dp"
+            android:src="@drawable/web_development1"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:text="  Working with PHP and MySQL to design, develop, and debug web applications. Integrating back-end services with PHP/Javascript based front end needs. Working with the team to manage, optimize, and customize multiple web applications. "
+            android:layout_marginLeft="6dp"
+            android:layout_marginRight="3dp"
+            android:paddingTop="5dp"
+            android:textSize="18dp"
+            android:textColor="@color/white"/>
+        <Button
+            android:id="@+id/web_btn"
+            android:layout_width="130dp"
+            android:layout_height="30dp"
+            android:text="know more"
+            android:textSize="20sp"
+            android:background="@color/teal_200"
+            android:textStyle="italic"
+            android:textColor="#FFFFFF"
+            />
+
+             <TextView
+            android:layout_width="250dp"
+            android:gravity="center"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="35dp"
+            android:text="telecalling"
+            android:textSize="30sp"
+            android:textStyle="italic"
+            android:textColor="@color/black"
+            android:layout_gravity="center"
+            android:background="#FF9800" />
+        <ImageView
+
+            android:paddingLeft="2dp"
+            android:paddingRight="2dp"
+            android:paddingBottom="2dp"
+            android:paddingTop="2dp"
+            android:layout_width="match_parent"
+            android:layout_height="468dp"
+            android:background="#000000"
+            android:layout_marginLeft="10dp"
+            android:src="@drawable/telecalling"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:text="  Selected interns day to day responsibility includes initiating telephonic contact on the behalf of the NGO on the given topic whilst managing your time efficiently."
+            android:layout_marginLeft="6dp"
+            android:layout_marginRight="3dp"
+            android:paddingTop="5dp"
+            android:textSize="18dp"
+            android:textColor="@color/white"/>
+
+        <Button
+            android:id="@+id/tele_btn"
+            android:layout_width="130dp"
+            android:layout_height="30dp"
+            android:text="know more"
+            android:textSize="20sp"
+            android:background="@color/teal_200"
+            android:textStyle="italic"
+            android:textColor="#FFFFFF"
+            />
+        <TextView
+            android:layout_width="250dp"
+            android:gravity="center"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="35dp"
+            android:text="Business Development and Sales"
+            android:textSize="25sp"
+            android:textStyle="italic"
+            android:textColor="@color/black"
+            android:layout_gravity="center"
+            android:background="#FF9800" />
+        <ImageView
+
+            android:paddingLeft="2dp"
+            android:paddingRight="2dp"
+            android:paddingBottom="2dp"
+            android:paddingTop="2dp"
+            android:layout_width="300dp"
+            android:layout_height="300dp"
+            android:background="#000000"
+            android:layout_gravity="center"
+            android:layout_marginLeft="10dp"
+            android:src="@drawable/sales"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:text=" Performing sales activities and helping in fundraising. Developing and driving business strategies, identifying opportunities and qualifying leads. Being part of the team and motivating them to achieve the target, business development client retention, lead generation client communication and relationship building. "
+            android:layout_marginLeft="6dp"
+            android:layout_marginRight="3dp"
+            android:paddingTop="5dp"
+            android:textSize="18dp"
+            android:textColor="@color/white"/>
+        <Button
+            android:id="@+id/bdsale_btn"
+            android:layout_width="130dp"
+            android:layout_height="30dp"
+            android:text="know more"
+            android:textSize="15sp"
+            android:background="@color/teal_200"
+            android:textStyle="italic"
+            android:textColor="#FFFFFF"
+            />
+        <TextView
+            android:layout_width="250dp"
+            android:gravity="center"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="35dp"
+            android:text="Graphic Design"
+            android:textSize="30sp"
+            android:textStyle="italic"
+            android:textColor="@color/black"
+            android:layout_gravity="center"
+            android:background="#FF9800" />
+        <ImageView
+
+            android:paddingLeft="2dp"
+            android:paddingRight="2dp"
+            android:paddingBottom="2dp"
+            android:paddingTop="2dp"
+            android:layout_width="300dp"
+            android:layout_height="300dp"
+            android:background="#000000"
+            android:layout_gravity="center"
+            android:layout_marginLeft="10dp"
+            android:src="@drawable/graphic"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:text=" Visualise and create graphics including illustrations logos layouts and photos. Get the designs approved and make desired amendments as per feedback. Combine creativity with an awareness of design elements"
+            android:layout_marginLeft="6dp"
+            android:layout_marginRight="3dp"
+            android:paddingTop="5dp"
+            android:textSize="18dp"
+            android:textColor="@color/white"/>
+        <Button
+            android:id="@+id/graphic_btn"
+            android:layout_width="130dp"
+            android:layout_height="30dp"
+            android:text="know more"
+            android:textSize="15sp"
+            android:background="@color/teal_200"
+            android:textStyle="italic"
+            android:textColor="#FFFFFF"
+            />
+
+        <TextView
+            android:layout_width="250dp"
+            android:gravity="center"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="35dp"
+            android:text="Social Media Marketing "
+            android:textSize="30sp"
+            android:textStyle="italic"
+            android:textColor="@color/black"
+            android:layout_gravity="center"
+            android:background="#FF9800" />
+        <ImageView
+
+            android:paddingLeft="2dp"
+            android:paddingRight="2dp"
+            android:paddingBottom="2dp"
+            android:paddingTop="2dp"
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:background="#000000"
+            android:layout_marginLeft="10dp"
+            android:src="@drawable/socialmedi"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:text="  Selected intern’s day-to-day responsibilities include performing social media marketing and digital advertisement  "
+            android:layout_marginLeft="6dp"
+            android:layout_marginRight="3dp"
+            android:paddingTop="5dp"
+            android:textSize="18dp"
+            android:textColor="@color/white"/>
+        <Button
+            android:id="@+id/social_btn"
+            android:layout_width="130dp"
+            android:layout_height="30dp"
+            android:text="know more"
+            android:textSize="15sp"
+            android:background="@color/teal_200"
+            android:textStyle="italic"
+            android:textColor="#FFFFFF"
+            />
+
+    </LinearLayout>
+</ScrollView>
+

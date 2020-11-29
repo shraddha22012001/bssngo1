@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/aboutt_1"
+            android:layout_width="301dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Our Team "
+            android:textAlignment="center"
+            android:textColor="#2946EA"
+            android:textSize="30dp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/aboutt_2"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_below="@id/aboutt_1"
+            android:layout_marginLeft="6dp"
+            android:layout_marginTop="10dp"
+            android:background="#FFFFFF"
+            android:src="@drawable/bss_logo" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="30dp"
+            android:background="#85ECFA"
+            android:src="@drawable/savitri" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:background="#85ECFA"
+            android:text="Savitri singh"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="25dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:background="#85ECFA"
+            android:text="President "
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="22dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:background="#85ECFA"
+            android:paddingLeft="2dp"
+            android:paddingTop="2dp"
+            android:paddingRight="2dp"
+            android:paddingBottom="2dp"
+            android:text="
+
+I always wanted to serve the needy and the disadvantaged. Being a homemaker I always thought about what I could do from my part to help. Then one day I realised that I don't need big money to do great things in life and that I could make a real difference by just dedicating my time to a cause. That is when I decided that I wanted to Invest and dedicate my time to social work for bettering the lives of those who are marginalized and underprivileged.
+"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+
+            />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginRight="30dp"
+            android:background="#85ECFA"
+            android:src="@drawable/dr_sumit_singh" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:background="#85ECFA"
+            android:text="Dr. Sumit Singh "
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="25dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:background="#85ECFA"
+            android:text="General Secretory "
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="22dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:background="#85ECFA"
+            android:paddingLeft="2dp"
+            android:paddingTop="2dp"
+            android:paddingRight="2dp"
+            android:paddingBottom="2dp"
+            android:text="
+
+As the co-founder and CEO of Badlav Seva Samiti, I firmly believe that serving the needy is the greatest virtue of all. If cleanliness is next to godliness, so is social service. Society is the place which most needs us today. Our victory shall lie in the society's victory. The progress of the have-nots shall reflect our progress. This is the end that I am working for and I shall not stop until our society has become pristine - the safest haven that one can ever seek.  "
+            android:textAlignment="center"
+            android:textColor="@color/black" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginRight="30dp"
+            android:background="#85ECFA"
+            android:src="@drawable/pooja_singh" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:background="#85ECFA"
+            android:text="Adv. Pooja Singh"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="25dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:background="#85ECFA"
+            android:text="Treasurer"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="22dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:background="#85ECFA"
+            android:paddingLeft="2dp"
+            android:paddingTop="2dp"
+            android:paddingRight="2dp"
+            android:paddingBottom="2dp"
+            android:text="I am a lawyer by profession and I am a believer of the concept of empowering myself to empower others and I wanted to connect with the grassroots, so after completing my higher studies I decided to dedicate my life to the needy. I take great pride in being a part of this organization that’s works endlessly for the noble cause of flourishing the society by empowering the marginalized and bridging the gaps between different sections. I realized that helping needy doesn’t need big amount of money, that just needs time to invest for the good cause."
+            android:textAlignment="center"
+            android:textColor="@color/black" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginRight="30dp"
+            android:background="#85ECFA"
+            android:src="@drawable/ayush" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:background="#85ECFA"
+            android:text="Ayush Sabat"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="25dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:background="#85ECFA"
+            android:paddingLeft="2dp"
+            android:paddingTop="2dp"
+            android:paddingRight="2dp"
+            android:paddingBottom="2dp"
+            android:text="As a producer and director by profession and as a member of this NGO I try to bring before my audience the reality of the world. The everyday experiences are filtered through my perception and people are often able to locate themselves in my stories. But my job has also taught me that not everything about life is scintillating. At times things go dim, seamy and stark and to bring back to light these very sections of the society which have long been engulfed in darkness, I have decided to join Badlav Seva Samiti.I am determined to work until such a society is established.  "
+            android:textAlignment="center"
+            android:textColor="@color/black" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginRight="30dp"
+            android:background="#85ECFA"
+            android:src="@drawable/aaffrene" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:background="#85ECFA"
+            android:text="Aafreen Alam"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="25dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:background="#85ECFA"
+            android:text="Assistant General Manager"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="22dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:background="#85ECFA"
+            android:paddingLeft="2dp"
+            android:paddingTop="2dp"
+            android:paddingRight="2dp"
+            android:paddingBottom="2dp"
+            android:text=" Most of the women and children in our country have no access to higher education and are deprived of the basic amenities, I believe that this should be the primary goal of education - to make us realise that people out there do not have the privileges that we have. It is easy to be dissatisfied with our lives when we go to sleep with our stomachs full, but millions are floundering in hunger and yet they don't complain. I wish to bring a ray of happiness in everyone's life. Since my teenage I've always been a strong believer of gender equality. "
+            android:textAlignment="center"
+            android:textColor="@color/black" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginRight="30dp"
+            android:background="#85ECFA"
+            android:src="@drawable/swastika" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:background="#85ECFA"
+            android:text="Swastika Kundu"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="25dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:background="#85ECFA"
+            android:text="Chief Technology Officer"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="22dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:layout_marginBottom="5dp"
+            android:background="#85ECFA"
+            android:paddingLeft="2dp"
+            android:paddingTop="2dp"
+            android:paddingRight="2dp"
+            android:paddingBottom="2dp"
+            android:text="I believe that helping poor people is not only our responsibility but it's also an act of humanity one should show towards others.Once I have started working on this NGO, I have realized that I felt passionate about that and wanted to help as much as possible by doing the best job ever."
+            android:textAlignment="center"
+            android:textColor="@color/black" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="25dp"
+            android:paddingLeft="2dp"
+            android:paddingTop="2dp"
+            android:paddingRight="2dp"
+            android:paddingBottom="10dp"
+            android:text="Other Team Members:  "
+            android:textAlignment="center"
+            android:textColor="#930A0A"
+            android:textSize="21dp"
+            android:textStyle="bold" />
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TableRow
+                android:layout_marginTop="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="6dp"
+                android:layout_marginRight="10dp"
+             >
+            <TextView
+                android:layout_marginLeft="6dp"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="Name"
+                android:textStyle="bold"
+                android:layout_weight="1"
+                android:gravity="left"/>
+            <TextView
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="Post"
+                android:textStyle="bold"
+                android:layout_weight="1"
+                android:gravity="left"/>
+            </TableRow>
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#85ECFA"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="6dp">
+                <TextView
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:text="Dr. Raghunath Prasad Dohare (Doctor)"
+                    android:textStyle="bold"
+                    android:layout_weight="1"
+                    android:layout_marginLeft="6dp"
+                    android:gravity="left"/>
+                <TextView
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:text="Founder Member"
+                    android:textStyle="bold"
+                    android:layout_weight="1"
+                    android:gravity="left"/>
+            </TableRow>
+            <TableRow
+                android:layout_marginTop="5dp"
+                android:layout_width="match_parent"
+
+                android:layout_height="match_parent"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="6dp">
+                <TextView
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:layout_marginLeft="6dp"
+                    android:text="Dr. Satyawati Dohare (Doctor)"
+                    android:textStyle="bold"
+                    android:layout_weight="1"
+                    android:gravity="left"/>
+                <TextView
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:text="Founder Member"
+                    android:textStyle="bold"
+                    android:layout_weight="1"
+                    android:gravity="left"/>
+            </TableRow>
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#85ECFA"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="6dp">
+                <TextView
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:layout_marginLeft="6dp"
+                    android:text="Justice Bhagwandeen"
+                    android:textStyle="bold"
+                    android:layout_weight="1"
+                    android:gravity="left"/>
+                <TextView
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:text="Founder Member"
+                    android:textStyle="bold"
+                    android:layout_weight="1"
+                    android:gravity="left"/>
+            </TableRow>
+            <TableRow
+                android:layout_marginTop="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="6dp">
+                <TextView
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:text="Dr. Pratibha Singh (Doctor)"
+                    android:layout_marginLeft="6dp"
+                    android:textStyle="bold"
+                    android:layout_weight="1"
+                    android:gravity="left"/>
+                <TextView
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:text="Founder Member"
+                    android:textStyle="bold"
+                    android:layout_weight="1"
+                    android:gravity="left"/>
+            </TableRow>
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#85ECFA"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="6dp">
+                <TextView
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:text="Siddharth Singh"
+                    android:layout_marginLeft="6dp"
+                    android:textStyle="bold"
+                    android:layout_weight="1"
+                    android:gravity="left"/>
+                <TextView
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:text="Founder Member"
+                    android:textStyle="bold"
+                    android:layout_weight="1"
+                    android:gravity="left"/>
+            </TableRow>
+            <TableRow
+                android:layout_marginTop="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="50dp"
+
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="6dp">
+                <TextView
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:text="Monika Singh"
+                    android:layout_marginLeft="6dp"
+                    android:textStyle="bold"
+                    android:layout_weight="1"
+                    android:gravity="left"/>
+                <TextView
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:text="Founder Member"
+                    android:textStyle="bold"
+                    android:layout_weight="1"
+                    android:gravity="left"/>
+            </TableRow>
+        </TableLayout>
+    </LinearLayout>
+</ScrollView>

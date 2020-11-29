@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SubActivity">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:verticalScrollbarPosition="right"
+            >
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                <TextView
+                    android:id="@+id/aim_objective"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="30dp"
+                    android:layout_gravity="center"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginLeft="20dp"
+                    android:text="Become a part of the    Badlav!"
+                    android:textColor="#185381"
+                    android:textSize="30dp"
+                    android:gravity="center_horizontal"
+                    android:textStyle="bold" />
+                <ImageView
+                    android:id="@+id/login_logo"
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:src="@drawable/bss_logo"
+                    android:layout_marginTop="10dp"
+                    />
+                <Button
+                    android:id="@+id/join_ngo_btn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:layout_marginTop="36dp"
+                    android:layout_gravity="center"
+                    android:textAlignment="center"
+                    android:text="Join Us"
+                    android:textColor="@color/black"
+                    android:textColorHighlight="#FBF7F7"
+                    android:textColorHint="#FFFEFE"
+                    android:textColorLink="#FFFFFF"
+                    android:layout_marginBottom="30dp"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    app:backgroundTint="#7CCFBE" />
+
+                <View
+                    android:id="@+id/divider"
+                    android:layout_width="match_parent"
+                    android:layout_height="2dp"
+                    android:layout_below="@+id/aim_objective"
+                    android:layout_marginTop="10dp"
+                    android:background="?android:attr/listDivider"
+                    android:outlineAmbientShadowColor="@color/black" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="80dp"
+                    android:textAlignment="center"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginLeft="20dp"
+                    android:text="Support Us DONATE"
+                    android:textColor="#185381"
+                    android:textSize="30dp"
+                    android:textStyle="bold"
+                    android:gravity="center_horizontal" />
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+
+                    android:layout_marginTop="20dp"
+                    android:text="        Badlav Seva Samiti works constantly for realising the dream of a better future. We, as an organisation are trying to bring about an overall change in the society one step at a time while creating a long term impact on the lives of hundreds of people belonging to the underprivileged sections of the society. We can sustain our work only if people like you can support us regularly. Donate today to help us bridge the gap and move towards an equal society.   "
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="10dp"
+                    android:paddingTop="5dp"
+                    android:textSize="16dp"
+                    android:textColor="@color/black"
+                    />
+                <Button
+                    android:id="@+id/Donate_ngo_btn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:layout_marginTop="36dp"
+                    android:layout_gravity="center"
+                    android:onClick="Myweb"
+                    android:text="Donate Us"
+                    android:textColor="@color/black"
+                    android:textColorHighlight="#FBF7F7"
+                    android:textColorHint="#FFFEFE"
+                    android:textColorLink="#FFFFFF"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    app:backgroundTint="#7CCFBE" />
+        </LinearLayout>
+</ScrollView>

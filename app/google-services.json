@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "262561964162",
+    "firebase_url": "https://bss-ngo.firebaseio.com",
+    "project_id": "bss-ngo",
+    "storage_bucket": "bss-ngo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262561964162:android:9c3f127612985f8e34149b",
+        "android_client_info": {
+          "package_name": "com.example.badlavsevasamitingo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262561964162-o5k3fef3be6tg5u1vqea0hbunjg5ifd9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.badlavsevasamitingo",
+            "certificate_hash": "d7f55d83d1933ca238c21c9d1e52129272d3d6db"
+          }
+        },
+        {
+          "client_id": "262561964162-uenrjj6i8sp7tqo71e6a409tseaaecho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH59GS0wHuPD9pDAFbG1SdE4SSIWTtFaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262561964162-uenrjj6i8sp7tqo71e6a409tseaaecho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
